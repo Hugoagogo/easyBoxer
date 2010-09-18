@@ -1,0 +1,4 @@
+A readme (or read me) file contains information about other files in a directory or archive and is very commonly distributed with computer software. Such a file is usually a text file called README.TXT, README.1ST, READ.ME, or simply README, although some Microsoft Windows software may occasionally include a README.WRI, README.RTF, or README.DOC. The name is chosen so that users unaware of the existence of this type of file would be drawn to read it. It is traditionally written in upper case so that on case-preserving environments using an ASCIIbetical  ordering, the name will appear near the beginning of a directory listing (since upper-case letters sort before lower-case letters in ASCIIbetical ordering).
+
+Extract from
+http://en.wikipedia.org/wiki/README
